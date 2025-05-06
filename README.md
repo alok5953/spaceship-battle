@@ -10,7 +10,7 @@
 
 [Play Demo](http://localhost:3000) | [Report Bug](https://github.com/alok5953/city-builder/issues) | [Request Feature](https://github.com/alok5953/city-builder/issues)
 
-![Space Shooter Screenshot](assets/Screenshot%202025-05-06%20at%203.28.17%20PM.png)
+![Space Shooter Screenshot](assets/demo.png)
 
 ## Features
 - **3D Spaceship Controls:** WASD to move, mouse to aim, smooth flight physics.
